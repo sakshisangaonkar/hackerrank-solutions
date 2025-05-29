@@ -1,2 +1,3 @@
-# hackerrank-solutions
-“My solutions to various HackerRank challenges.”
+# HackerRank Solutions
+
+This repository contains my solutions to various problems
