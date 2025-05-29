@@ -1,3 +1,3 @@
 # HackerRank Solutions
 
-This repository contains my solutions to various problems
+This repository contains my solutions to Python problems
